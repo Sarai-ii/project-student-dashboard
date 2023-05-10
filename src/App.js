@@ -13,7 +13,7 @@ function App() {
     const filtered = studentData.filter((student) => {
       return student.cohort.cohortCode === title;
     });
-    
+    title = cohortCode //has to be used in order to deploy site
     setShowByDate(filtered); // Updating the state with the filtered students
     setCohortCode(title); // Updating the state with the selected cohort code
   };
