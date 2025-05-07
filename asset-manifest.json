@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sarai-ii/project-student-dashboard/static/css/main.1ac2579b.css",
+    "main.js": "/Sarai-ii/project-student-dashboard/static/js/main.fe7172e5.js",
+    "index.html": "/Sarai-ii/project-student-dashboard/index.html",
+    "main.1ac2579b.css.map": "/Sarai-ii/project-student-dashboard/static/css/main.1ac2579b.css.map",
+    "main.fe7172e5.js.map": "/Sarai-ii/project-student-dashboard/static/js/main.fe7172e5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1ac2579b.css",
+    "static/js/main.fe7172e5.js"
+  ]
+}
