@@ -16,6 +16,7 @@ export default function Sidebar({students, setShowByDate }) {
         const yearB = parseInt(b.cohort.cohortCode.slice(-4));
         return yearA - yearB;
   });
+  console.log(students)
     
       
     function toggleShowCohortByDate (cohortCode) {

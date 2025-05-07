@@ -8,7 +8,7 @@ import SideBar from "./Components/SideBar";
 function App() {
   const [showByDate, setShowByDate] = useState ([])
   const [cohortCode, setCohortCode] = useState("");
-
+  
   const filterTitle = (title) => {
     const filtered = studentData.filter((student) => {
       return student.cohort.cohortCode === title;
